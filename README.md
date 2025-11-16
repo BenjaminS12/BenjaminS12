@@ -2,7 +2,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://media1.tenor.com/m/zWLzYDsUprAAAAAC/anime-boy.gif" width = 250px></picture>
+<picture> <img align="right" src="https://media1.tenor.com/m/zWLzYDsUprAAAAAC/anime-boy.gif" width = 350px></picture>
 
 <br><br>
 
