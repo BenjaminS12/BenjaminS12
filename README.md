@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Benjamin Soto </b><img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" width="50"></h1>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <p align="justify" style="text-align: justify; text-justify: inter-word;">I’m a Computer Engineering student with a strong focus on Front-End development, Cloud Computing, and DevOps. I enjoy creating modern and functional interfaces with React and Vite, and integrating them with powerful back-end solutions using Django, Firebase, and SQL/NoSQL databases. I have practical experience in real-world projects, including attendance control systems, IoT solutions with Arduino and Firebase, Android apps with real-time databases, and ETL/OLAP pipelines using Microsoft tools (SSIS, SSAS, SSRS). While I have full-stack skills, my main strengths are Front-End development, cloud integration, and continuous learning in DevOps and cybersecurity. I consider myself proactive, self-taught, and always looking to improve through new challenges and efficient solutions.
 </p>
