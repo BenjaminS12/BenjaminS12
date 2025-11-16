@@ -1,7 +1,17 @@
 <h1 align="center">Hola 👋, Yo soy Benjamin Soto</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Soy estudiante de Ingeniería en Informática con un fuerte enfoque en el desarrollo Front-End, Cloud Computing y prácticas DevOps. Me gusta crear interfaces modernas y funcionales utilizando React y Vite, integrándolas con soluciones robustas en Django, Firebase y bases de datos SQL/NoSQL. Tengo experiencia práctica en proyectos reales, como sistemas de control de asistencia, desarrollos IoT con Arduino y Firebase, aplicaciones Android conectadas a bases de datos en tiempo real y procesos ETL/OLAP utilizando herramientas de Microsoft (SSIS, SSAS, SSRS). Aunque cuento con habilidades full-stack, mis principales fortalezas se encuentran en el Front-End, la integración con servicios en la nube y el aprendizaje continuo en áreas de DevOps y ciberseguridad. Soy una persona proactiva, autodidacta y comprometida, siempre buscando mejorar mis conocimientos y crear soluciones cada vez más eficientes.</h3>
 
-- 🤝 Busco colaborar en **Proyectos Front-en**
+- 🌱 Estoy aprendiendo **Cloud Computing • DevOps • CI/CD • Docker • Azure • Ciberseguridad.**
+
+- 📂 Mis proyectos están disponibles en [github.com/BenjaminS12](github.com/BenjaminS12)
+
+- 💬 Pregúntame sobre **Frontend, Firebase, IoT, SQL, ETL/OLAP.**
+
+- 📫 Cómo contactarme **benjaminsotoferreira@gmail.com**
+
+- 📄 Conoce mi experiencia en [linkedin.com/in/benjaminsf1221](linkedin.com/in/benjaminsf1221)
+
+- ⚡ Dato curioso **Me encantan los juegos estratégicos y aprender cosas nuevas rápido.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
