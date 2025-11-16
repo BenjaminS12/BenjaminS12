@@ -70,7 +70,7 @@
 ## 🔗 &nbsp;Contact Me
 <p align="left">
   <a href="https://www.linkedin.com/in/benjaminsf1221/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://media.tenor.com/TRykt_yEBIQAAAAi/pengu-pudgy.gif"
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="mailto:benjaminsotoferreira@gmmail.com" target="blank"><img align="center"
       src="https://media.tenor.com/cpR9vGVN9p0AAAAj/emjoi.gif"
