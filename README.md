@@ -74,7 +74,7 @@
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="mailto:benjaminsotoferreira@gmmail.com" target="blank"><img align="center"
       src="https://media.tenor.com/cpR9vGVN9p0AAAAj/emjoi.gif"
-      alt="adam pithewan" height="30" width="40" /></a>  
+      alt="adam pithewan" height="40" width="50" /></a>  
 </p>
 
 
