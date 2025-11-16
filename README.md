@@ -73,7 +73,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="mailto:benjaminsotoferreira@gmmail.com" target="blank"><img align="center"
-      src="https://media1.tenor.com/m/Rwzyzqs6viIAAAAC/gmail.gif"
+      src="[https://media1.tenor.com/m/Rwzyzqs6viIAAAAC/gmail.gif](https://media.tenor.com/cpR9vGVN9p0AAAAi/emjoi.gif)"
       alt="adam pithewan" height="30" width="40" /></a>  
 </p>
 
