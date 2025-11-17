@@ -73,7 +73,7 @@
   <a href="https://www.linkedin.com/in/benjaminsf1221/" target="blank"><img align="center"
       src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg"
       alt="adam pithewan" height="40" width="50" /></a>
-  <a href="mailto:benjaminsotoferreira@gmmail.com" target="blank"><img align="center"
+  <a href="mailto:benjaminsotoferreira@gmail.com" target="blank"><img align="center"
       src="https://skillicons.dev/icons?i=gmail"
       alt="adam pithewan" height="40" width="50" /></a>  
 </p>
